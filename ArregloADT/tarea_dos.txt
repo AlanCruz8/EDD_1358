@@ -1,0 +1,5 @@
+Materia: Estructura de datos
+Grupo: 1358
+Profesor: Jesus Hernandez Cabrera
+Alumno: Cruz Carcamo Alan Eduardo
+Fecha de entrega: 29/Ago/2022
