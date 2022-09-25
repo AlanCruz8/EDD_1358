@@ -1,0 +1,5 @@
+Materia: Estructura de datos
+Alumno: Cruz Carcamo Alan Eduardo
+Profesor : Jesus Hernandez Cabrera
+Grupo : 1359
+Fecha de entrega : 26/Sep/2022
