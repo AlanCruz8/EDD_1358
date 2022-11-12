@@ -16,8 +16,8 @@ public class Main {
         fila.enqueue(5, "Capitan");
         System.out.println("¿La fila para evacuar esta vacia?  " + fila.isEmpty());
         System.out.println("¿Cual es el tamaño de la fila?  " + fila.length());
-        System.out.println("El mas importante es : " + fila.dequeue());
         System.out.println(fila);
+        System.out.println("El mas importante es : " + fila.dequeue());
     }
 
 }
