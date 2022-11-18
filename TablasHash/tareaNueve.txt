@@ -1,0 +1,4 @@
+Materia: Estructura de datos
+Grupo: 1358
+Alumno: Cruz Carcamo Alan Eduardo
+Fecha de entrega: 17/Nov/2022
